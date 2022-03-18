@@ -1,0 +1,27 @@
+{
+  "name": "ffi-napi-steam-js",
+  "version": "1.0.0",
+  "description": "a node.js plugin to integrate nw.js/electron games with steamworks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gurigraphics/ffi-napi-steam-js.git"
+  },
+  "keywords": [
+    "ffi",
+    "steam",
+    "napi"
+  ],
+  "author": "Gurigraphics",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gurigraphics/ffi-napi-steam-js/issues"
+  },
+  "homepage": "https://github.com/Gurigraphics/ffi-napi-steam-js#readme",
+  "dependencies": {
+    "ffi-napi": "^4.0.3"
+  }
+}
