@@ -1,7 +1,8 @@
 /*
  * ffi-napi-steam-js
  * 
- * Copyright (c) 2022-2022 Gurigraphics
+ * Copyright (c) 2022 Gurigraphics https://github.com/Gurigraphics  
+ * Copyright (c) 2022 ceifa https://github.com/ceifa
  *
  * Permission is hereby granted, free of charge, to any person obtaining a copy
  * of this software and associated documentation files (the "Software"), to deal
