@@ -10,7 +10,7 @@ Install
 
 Download 
 ```
-steam_api64.dll
+steam_api64.dll | version 1.53a
 ```
 
 https://partner.steamgames.com/
